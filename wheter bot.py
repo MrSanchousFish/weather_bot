@@ -6,8 +6,8 @@ import time
 import threading
 #from datetime import datetime
 from telebot.types import InlineKeyboardButton, InlineKeyboardMarkup
-from functools import partial
-bot = telebot.TeleBot('7415748208:AAF_5jtc823aN3yKVBev3Jm_G2_x-Xkrjcc')  #бот
+from functools import partsttial
+bot = telebot.TeleBot('asdasd')  #бот
 
 what_country = False  #проверка что страна выбрана
 country = None  #страна в которой мы проверяем погоду
